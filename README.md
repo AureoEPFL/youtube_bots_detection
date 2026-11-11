@@ -2,7 +2,7 @@
 
 ### Flow diagram explaining how the different notebooks are linked together
 ![Flow diagram explaining how the different notebooks are linked together](data/images/Flow_diagram_commented.png)
-
+Check this website for some cool visualiations: https://amaulap2.github.io/Datastory/
 ### Abstract
 
 This project, titled *Invisible Influencers – Investigating YouTube’s Bot Phenomenon*, aims to explore the growing issue of bots on YouTube, specifically those spreading spam through repetitive comments across multiple videos. With over 136,000 channels and 73 million videos in the dataset, we analyze how bots influence engagement metrics such as views, likes, and comments. Our primary goal is to identify bots based on their commenting patterns, specifically targeting videos uploaded within similar timeframes. We aim to assess the impact of these bots on both the videos and channels they target, revealing trends in content type, and the engagement. 
